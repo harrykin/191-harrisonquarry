@@ -1,12 +1,12 @@
 # README file for Git-Basic-Commits
 
 
-2. What does `git log` look like?
+2. What does `git log` look like?  
 `fatal: your current branch 'master' does not have any commits yet`
 
 
 4. What does the output from `git status` look like now?
-```
+``` bash
 On branch master
 
 No commits yet
@@ -59,7 +59,7 @@ Changes to be committed:
 
 ```
 
-15. What does the `status` look like now? The `log`?
+15. What does the `status` look like now? The `log`?   
 Status:
 ```
 On branch master
